@@ -1,10 +1,10 @@
- 👍   there ekrem nur  👍
+ Hi,there is.  ...👍  Ekrem NUR  👍...
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Software Test Engineer
-- 🌱 I’m currently learning ...Always more than
+- 🔭 I’m currently working on Software Test Engineer
+- 🌱 I’m currently learning Always more... 
 
 
 
