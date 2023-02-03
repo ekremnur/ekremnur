@@ -7,15 +7,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Always more... 
 
 <html>
-    <head>
-       <title>Sayfamızda görüntülenecek başlık</title>
+  
     </head>
     <body background="https://img-s2.onedio.com/id-59f1f71cc9d3888e0eb6ae51/rev-0/w-600/h-335/f-gif/s-af21118734ec155fbc406a344b9a7eafa294d3cf.gif">
        
     </body>
  </html>">
        
-    </body>
+    
  </html>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
