@@ -1,4 +1,4 @@
-<img src="https://frpnet.net/wp-content/uploads/2017/10/matrix.gif">
+<img src="https://frpnet.net/wp-content/uploads/2017/10/matrix.gif" width="600" height="200" alt="Wanna Code Code GIF - Wanna Code Code Headphones GIFs" style="max-width: 833px;">
 
 
 Hi, I'm  ...👍  Ekrem NUR  👍...
