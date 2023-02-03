@@ -1,4 +1,4 @@
-<img src="https://frpnet.net/wp-content/uploads/2017/10/matrix.gif" width="600" height="150" alt="EKREM NUR" style="">
+<backround img src="https://frpnet.net/wp-content/uploads/2017/10/matrix.gif" width="600" height="150" alt="EKREM NUR" style="">
 
 
 Hi, I'm  ...👍  Ekrem NUR  👍...
