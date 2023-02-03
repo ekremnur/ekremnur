@@ -6,8 +6,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Software Test Engineer
 - 🌱 I’m currently learning Always more... 
 
-
-
+<html>
+    <head>
+       <title>Sayfamızda görüntülenecek başlık</title>
+    </head>
+    <body background="https://img-s2.onedio.com/id-59f1f71cc9d3888e0eb6ae51/rev-0/w-600/h-335/f-gif/s-af21118734ec155fbc406a344b9a7eafa294d3cf.gif">
+       
+    </body>
+ </html>">
+       
+    </body>
+ </html>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ekrem-n-0411ba254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekremnur" height="20" width="30" /></a>
@@ -21,5 +30,5 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="50" height="50"/>  <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="50" height="50" />
   </p>
 
-<a href="https://img-s2.onedio.com/id-59f1f71cc9d3888e0eb6ae51/rev-0/w-600/h-335/f-gif/s-af21118734ec155fbc406a344b9a7eafa294d3cf.gif </p>
+
 
